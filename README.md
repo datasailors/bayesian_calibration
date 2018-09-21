@@ -6,7 +6,7 @@ This repo contains sample code to perform probabilistic parameter estimation usi
 
 The examples are:
 - [Crack Propagation Model](https://github.com/bhgedigital/bayesian_calibration/blob/master/notebooks/Simple_Probabilistic_Crack_Growth_Model_logY.ipynb)
-- Battery Degradation Model [Link to be updated]
+- [Battery Degradation Model](https://github.com/bhgedigital/bayesian_calibration/blob/master/notebooks/Simple_Probabilistic_Battery_degradation_example.ipynb)
 
 Details on how to run the notebooks above are given below, in our __Implementation__ section.
 
