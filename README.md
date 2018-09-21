@@ -14,7 +14,7 @@ Details on how to run the notebooks above are given below, in our __Implementati
 
 Depend on Docker, a.k.a as {Do},  is an easy to use project template that helps start working quickly on any of your projects. It lets you embed the knowledge you have about your software into a container that hides away complexities and makes it easy to build, ship, and run on Linux or Windows, locally, in a data center, and on any cloud. To accomplish all of it, the only dependency you need is Docker!
 
-Knowing that we don't want to have to set-up the environment for building probabilistic models every time we mode to a different machine, we've package all the necessary dependencies - chiefly Tensorflow and Tensorflow Probability - into our image. Running the Jupyter notebooks become very simple: `./run.sh` will get you your own Jupyter Notebook server! After that, simply open Chrome and browse to https://localhost:8888. 
+Knowing that we don't want to have to set-up the environment for building probabilistic models every time we mode to a different machine, we've package all the necessary dependencies - chiefly Tensorflow and Tensorflow Probability - into our image. Running the Jupyter notebooks become very simple: `./run.sh` will get you your own Jupyter Notebook server! After that, simply open Chrome and browse to http://localhost:8888. 
 
 For now the project has been built to run CPU only, we'll get to the GPU enabled project soon, hang on tight. 
 
